@@ -1,0 +1,6 @@
+C:\c#\Receipt Project\Receipt Project\bin\Debug\Receipt Project.exe.config
+C:\c#\Receipt Project\Receipt Project\bin\Debug\Receipt Project.exe
+C:\c#\Receipt Project\Receipt Project\bin\Debug\Receipt Project.pdb
+C:\c#\Receipt Project\Receipt Project\obj\Debug\Receipt Project.csprojResolveAssemblyReference.cache
+C:\c#\Receipt Project\Receipt Project\obj\Debug\Receipt Project.exe
+C:\c#\Receipt Project\Receipt Project\obj\Debug\Receipt Project.pdb
